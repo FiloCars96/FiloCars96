@@ -1,18 +1,85 @@
-# 💫 About Me:
-I work as a Project Manager and Product Owner in a consultancy company, helping clients design and deliver digital solutions with clarity, structure, and impact.<br>I’m also a Microsoft Dynamics Functional Consultant & Developer, working across CRM, business processes, and integrations.<br><br>Alongside my professional role, I build my own tools and simulations using Lovable AI, GitHub, and Vercel, focusing on clean architecture.<br><br>🚀 What I’m Currently Working On<br><br>Real Estate Simulator — an advanced amortization & ROI engine with long-term projections<br><br>Presale CRM Tool — a lightweight CRM assistant with automated email generation and deal tracking<br><br>Experimenting with AI-assisted workflows, reusable UI patterns, and modern financial tools<br><br>🧰 Tech & Platforms I Use<br><br>Professionally<br><br>Project & Product Management<br><br>Microsoft Dynamics 365 (Functional + Development)<br><br>Requirements analysis, solution design, process mapping<br><br>Integrations & workflow automation<br><br>For my personal projects<br><br>React, Next.js, TypeScript<br><br>Tailwind, shadcn/ui<br><br>Node.js, REST APIs<br><br>Vercel, GitHub, Lovable AI<br><br>Supabase / Firebase (when needed)<br><br>💡 What I Like to Build<br><br>Financial and real estate simulators<br><br>Workflow automations<br><br>CRM and productivity tools<br><br>Clear, minimalistic style UI<br><br>Tools that combine real-world business logic + modern front-end<br><br>🎯 My Approach<br><br>I blend product thinking, technical understanding, and consulting experience to build tools that are simple to use but handle complex logic behind the scenes.
+# 👋 Hi, I'm Filippo Carsetti  
 
+Project Manager & Product Owner at a consultancy company, helping clients design and deliver **scalable digital solutions** with clarity, structure, and impact.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/filippo-carsetti-171348217) 
+I also work as a **Microsoft Dynamics 365 Functional Consultant & Developer**, focusing on CRM processes, automation, integrations, and business workflows.
 
-# 💻 Tech Stack:
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FiloCars96&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=FiloCars96&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FiloCars96&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+In my personal time, I build modern tools and simulations using **Lovable AI, GitHub, Vercel**, and a refined, minimalistic front-end stack.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FiloCars96&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+- 🎯 **Project Manager / Product Owner** — leading digital delivery, requirements, and solution design  
+- 🧠 **Dynamics 365 Functional Consultant & Developer** — CRM, workflows, plugins, integrations  
+- 🛠️ **Indie Developer** building interactive apps & financial engines  
+- 🎨 Passionate about clean UIs, predictable architecture, and real-world business logic  
+
+---
+
+## 🚀 What I’m Working On
+
+### 🏡 **Real Estate Simulator**  
+A full amortization & ROI engine with long-term projections, cashflow modeling, and visual insights.
+
+### 📧 **Presale CRM Assistant**  
+A lightweight CRM for presales teams with automated email generation, opportunity tracking, and smart workflows.
+
+### 🤖 **AI-Assisted Workflows**  
+Exploring reusable UI patterns, automation, and AI augmentation for productivity apps.
+
+---
+
+## 🧰 Tech & Platforms I Use
+
+### 💼 **Professionally**
+- Project & Product Management  
+- Microsoft Dynamics 365 (Functional + Development)  
+- Business process optimization & solution design  
+- CRM configuration, workflows, integrations  
+- Cross-team coordination & delivery  
+
+### 🏗️ **For My Projects**
+- **Frontend:** React, Next.js, TypeScript  
+- **Styling:** Tailwind CSS, shadcn/ui  
+- **Backend:** Node.js, REST APIs  
+- **Hosting & DevOps:** Vercel, GitHub  
+- **AI Tools:** Lovable AI  
+- **Databases:** Supabase, Firebase (when needed)
+
+---
+
+## 💡 What I Like to Build
+- Real estate & financial simulators  
+- Modern CRM & productivity tools  
+- Automated workflows & business processes  
+- Clean, minimalistic interfaces  
+- Tools that merge **real business logic** with **modern front-end tech**
+
+---
+
+## 🎯 My Approach
+I combine **product thinking**, **technical expertise**, and **consulting experience** to build tools that feel simple and intuitive — even when the logic underneath is complex.
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/filippo-carsetti-171348217)
+
+---
+
+## 💻 Tech Stack
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=FiloCars96&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=FiloCars96&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FiloCars96&theme=dark&hide_border=false&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=FiloCars96&icon=0&color=0)](https://visitcount.itsvg.in)
